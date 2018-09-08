@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi all. I am not Hubot. I like bash-scripts. And I never eat tacos.
